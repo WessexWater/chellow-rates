@@ -1,1 +1,1 @@
-- [Market Domain Data (MDD)](mdd/README.md)
+- [Market Domain Data (MDD)](mdd)
