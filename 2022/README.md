@@ -1,1 +1,1 @@
-- [Market Domain Data (MDD)](mdd)
+- [Electricity](electricity)
