@@ -9,8 +9,9 @@ the MDD files. The files needed are:
 - Market\_Role
 - Market\_Participant\_Role
 - Line\_Loss\_Factor\_Class
-- Meter\_Timeswitch\_Class
 - MTC\_Meter\_Type
+- MTC\_Payment\_Type
+- Meter\_Timeswitch\_Class
 - MTC\_in\_PES\_Area
 - Standard\_Settlement\_Configuration
 - Valid\_MTC\_LLFC\_Combination
