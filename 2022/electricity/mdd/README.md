@@ -13,6 +13,7 @@ the MDD files. The files needed are:
 - MTC\_Payment\_Type
 - Meter\_Timeswitch\_Class
 - MTC\_in\_PES\_Area
+- Profile\_Class
 - Standard\_Settlement\_Configuration
 - Valid\_MTC\_LLFC\_Combination
 - Valid\_MTC\_SSC\_Combination
