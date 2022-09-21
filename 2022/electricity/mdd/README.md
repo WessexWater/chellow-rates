@@ -5,6 +5,7 @@ MDD files are available from the
 of files has a version number, which should be used as the name of the folder containing
 the MDD files. The files needed are:
 
+- GSP\_Group
 - Market\_Participant
 - Market\_Role
 - Market\_Participant\_Role
