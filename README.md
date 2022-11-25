@@ -4,3 +4,4 @@ Industry rate files for Chellow. The rates are divided up by the year in which t
 valid from.
 
 - [2022](2022)
+- [2023](2023)
