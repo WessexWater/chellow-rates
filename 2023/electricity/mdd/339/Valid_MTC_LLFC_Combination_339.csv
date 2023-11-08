@@ -1,4 +1,8 @@
 "Meter Timeswitch Class ID","Effective From Settlement Date (MTC)","Market Participant ID","Effective From Settlement Date (MTCPA)","Line Loss Factor Class ID","Effective From Settlement Date (VMTCLC)","Effective To Settlement Date (VMTCLC)"
+"845","01/04/1996","CROW","01/04/1996","510","01/04/1996",""
+"845","01/04/1996","CROW","01/04/1996","521","01/04/1996",""
+"845","01/04/1996","CROW","01/04/1996","570","01/04/1996",""
+"845","01/04/1996","CROW","01/04/1996","581","01/04/1996",""
 "70","01/04/1996","SOUT","01/04/1996","453","01/04/1996","31/03/2022"
 "70","01/04/1996","SOUT","01/04/1996","470","04/11/2008","31/03/2023"
 "70","01/04/1996","SOUT","01/04/1996","476","04/11/2008","31/03/2023"
