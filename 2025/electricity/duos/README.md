@@ -3,7 +3,13 @@
 The files we need are the spreadsheets (of zip file of spreadsheets) rather than
 the PDFs.
 
+- [10](https://www.ukpowernetworks.co.uk/our-company/distribution-use-of-system-charges) Eastern Power Networks
+
+- [13](https://www.scottishpower.com/pages/connections_use_of_system_and_metering_services.aspx) SP Manweb
+
 - [14](https://www.nationalgrid.co.uk/our-network/use-of-system-charges/charging-statements) West Midlands
+
+- [16](https://www.enwl.co.uk/about-us/regulatory-information/use-of-system-charges/current-charging-information/) Electricity North West
 
 - [20](https://www.ssen.co.uk/about-ssen/library/charging-statements-and-information/southern-electric-power-distribution/)
 
